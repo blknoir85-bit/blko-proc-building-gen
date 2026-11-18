@@ -14,6 +14,14 @@ Generated directly from parametric presets in headless Blender 5.2:
 |---|---|---|
 | ![Apartments](docs/images/apartments.jpg) | ![Hotel](docs/images/hotel.jpg) | ![Theater](docs/images/theater.jpg) |
 
+| Chongqing Skybridge Towers (`chongqing_skybridge_towers`) | Fujian Tulou (`chinese_tulou_round_3`) | Normandy Timber Manor (`normandy_manor_timber_manor`) |
+|---|---|---|
+| ![Chongqing Skybridge](docs/images/chongqing_skybridge.jpg) | ![Tulou](docs/images/tulou.jpg) | ![Normandy Manor](docs/images/normandy_manor.jpg) |
+
+| Flak Tower (`wehrmacht_flak_tower`) | Diagrid Tower (`london_gherkin_tower`) | Roadside Diner (`americana_road_diner`) |
+|---|---|---|
+| ![Flak Tower](docs/images/flak_tower.jpg) | ![Gherkin Tower](docs/images/gherkin_tower.jpg) | ![Road Diner](docs/images/road_diner.jpg) |
+
 ### Parametric Destruction & Rubble (`washington_capitol`)
 
 | Intact | Damaged (`ruin="BITE"`, shell holes & rubble apron) |
